@@ -3,12 +3,16 @@
 Estudo das despesas municipais da cidades de São Paulo.
 
 
+<br>
+
 ---
 
 # Linguagem R
 
 É utilizado nesse projeto R versão `4.1.1`.
 
+
+<br>
 
 ---
 
@@ -21,6 +25,8 @@ install.packages("tidyverse")
 ```
 
 
+<br>
+
 ---
 
 # Executar projeto
@@ -31,6 +37,8 @@ Para executar o projeto basta importar o arquivo *main.r* conforme abaixo:
 source('main.r')
 ```
 
+
+<br>
 
 ---
 
